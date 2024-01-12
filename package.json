@@ -1,6 +1,6 @@
 {
-  "name": "vite-vanilla-js-tailwind",
-  "description": "Vite Vanilla JavaScript with Tailwind starter Template",
+  "name": "todo-django-tailwind-pages",
+  "description": "Django with Tailwind To Do Web Application GitHub Pages",
   "version": "1.0.0",
   "author": "Niel Conradie",
   "license": "MIT",
@@ -12,38 +12,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niel-conradie/vite-vanilla-js-tailwind.git"
+    "url": "git+https://github.com/niel-conradie/todo-django-tailwind-pages.git"
   },
-  "homepage": "https://github.com/niel-conradie/vite-vanilla-js-tailwind#readme",
+  "homepage": "https://github.com/niel-conradie/todo-django-tailwind-pages#readme",
   "bugs": {
-    "url": "https://github.com/niel-conradie/vite-vanilla-js-tailwind/issues"
+    "url": "https://github.com/niel-conradie/todo-django-tailwind-pages/issues"
   },
   "keywords": [
     "autoprefixer",
     "cssnano",
-    "flowbite",
     "postcss",
-    "postcss-import",
     "prettier",
     "prettier-tailwind",
     "sass",
     "tailwind",
-    "tailwind-aspect-ratio",
-    "tailwind-container-queries",
-    "tailwind-forms",
-    "tailwind-typography",
     "vite"
   ],
   "devDependencies": {
-    "@tailwindcss/aspect-ratio": "^0.4.2",
-    "@tailwindcss/container-queries": "^0.1.1",
-    "@tailwindcss/forms": "^0.5.7",
-    "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.16",
     "cssnano": "^6.0.3",
-    "flowbite": "^2.2.1",
     "postcss": "^8.4.33",
-    "postcss-import": "^16.0.0",
     "prettier": "^3.1.1",
     "prettier-plugin-tailwindcss": "^0.5.11",
     "sass": "^1.69.7",

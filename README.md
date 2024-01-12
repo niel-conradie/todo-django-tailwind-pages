@@ -1,6 +1,6 @@
-# **Vite Vanilla JS Tailwind**
+# **To Do Django Tailwind Pages**
 
-**Vite Vanilla JavaScript with Tailwind starter Template.**
+**Django with Tailwind To Do Web Application GitHub Pages.**
 
 ---
 
@@ -12,18 +12,18 @@
 
 ## **Installation**
 
-Vite Vanilla JS Tailwind can be installed via [npm](https://www.npmjs.com/). To start, clone the repository to your local computer and change into the proper directory, then use the command to install required dependencies.
+To Do Django Tailwind Pages can be installed via [npm](https://www.npmjs.com/). To start, clone the repository to your local computer and change into the proper directory, then use the command to install required dependencies.
 
 - **Clone Repository**
 
 ```bash
-git clone https://github.com/niel-conradie/vite-vanilla-js-tailwind.git
+git clone https://github.com/niel-conradie/todo-django-tailwind-pages.git
 ```
 
 - **Change Directory**
 
 ```bash
-cd vite-vanilla-js-tailwind
+cd todo-django-tailwind-pages
 ```
 
 - **Install Dependencies**
@@ -60,6 +60,6 @@ npm run preview
 
 ## **License**
 
-[MIT License](https://github.com/niel-conradie/vite-vanilla-js-tailwind/blob/master/LICENSE)
+[MIT License](https://github.com/niel-conradie/todo-django-tailwind-pages/blob/master/LICENSE)
 
 ---

@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/vite-vanilla-js-tailwind",
+  base: "/todo-django-tailwind-pages",
 
   build: {
     rollupOptions: {
